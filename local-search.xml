@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>HitaDAO 积分激励机制</title>
+    <link href="/2024/08/28/HitaDAO%20%E7%A7%AF%E5%88%86%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/"/>
+    <url>/2024/08/28/HitaDAO%20%E7%A7%AF%E5%88%86%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/</url>
+    
+    <content type="html"><![CDATA[<h1 id="HitaDAO-积分激励机制"><a href="#HitaDAO-积分激励机制" class="headerlink" title="HitaDAO 积分激励机制"></a>HitaDAO 积分激励机制</h1><h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><p>本文档概述了参与者通过在 HitaDAO GitHub 社区中的特定贡献行为获得积分的详细机制。这些行为包括对 HitaDAO 组织的跟踪关注（Follow）以及对项目仓库的星标（Star）。参与者所获得的积分将通过智能合约自动映射至其以太坊地址，确保积分的透明和安全发放。</p><h2 id="积分获取细则"><a href="#积分获取细则" class="headerlink" title="积分获取细则"></a>积分获取细则</h2><h3 id="1-关注（Follow）激励"><a href="#1-关注（Follow）激励" class="headerlink" title="1. 关注（Follow）激励"></a>1. 关注（Follow）激励</h3><ul><li><strong>操作定义</strong>：在 GitHub 平台上对 HitaDAO 组织进行关注。</li><li><strong>积分值</strong>：每完成一次关注操作，参与者将获得 10 积分。</li><li><strong>资格条件</strong>：积分仅授予成功关注 HitaDAO 组织的参与者。</li></ul><h3 id="2-星标（Star）激励"><a href="#2-星标（Star）激励" class="headerlink" title="2. 星标（Star）激励"></a>2. 星标（Star）激励</h3><ul><li><strong>操作定义</strong>：在 GitHub 上对 HitaDAO 指定的仓库进行星标。</li><li><strong>积分值</strong>：每完成一次星标操作，参与者将获得 5 积分。</li><li><strong>资格条件</strong>：积分仅授予对 HitaDAO 指定仓库进行星标的参与者。</li></ul><h2 id="积分发放流程"><a href="#积分发放流程" class="headerlink" title="积分发放流程"></a>积分发放流程</h2><ul><li><strong>发放时间</strong>：积分将在参与者完成操作后的 48 小时内发放。</li><li><strong>发放方式</strong>：积分将通过智能合约自动映射至参与者的以太坊地址，确保流程的自动化和去中心化。</li></ul><h2 id="操作指导"><a href="#操作指导" class="headerlink" title="操作指导"></a>操作指导</h2><h3 id="如何提交以太坊地址"><a href="#如何提交以太坊地址" class="headerlink" title="如何提交以太坊地址"></a>如何提交以太坊地址</h3><ul><li><p><strong>步骤 1</strong>：登录至 GitHub 平台并导航至 HitaDAO 组织页面。</p></li><li><p><strong>步骤 2</strong>：进入 hitadao 仓库，点击 “Issues” 选项。</p><p><img src="/2024/08/28/HitaDAO%20%E7%A7%AF%E5%88%86%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/issues-arrow.png"></p></li><li><p><strong>步骤 3</strong>：在 “Issues” 页面，提交一个新的 issue。</p><p><img src="/2024/08/28/HitaDAO%20%E7%A7%AF%E5%88%86%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/issue-arrow.png"></p></li><li><p><strong>步骤 4</strong>：在 issue 的标题（title）中输入 <code>以太坊: 您的昵称</code>，在描述（description）中输入您的以太坊账户地址。</p></li></ul><h3 id="如何关注-HitaDAO"><a href="#如何关注-HitaDAO" class="headerlink" title="如何关注 HitaDAO"></a>如何关注 HitaDAO</h3><ul><li><p><strong>步骤 1</strong>：登录至 GitHub 平台并导航至 HitaDAO 组织页面。</p></li><li><p><strong>步骤 2</strong>：在组织页面，点击 “Follow” 按钮以关注组织。</p><p><img src="/2024/08/28/HitaDAO%20%E7%A7%AF%E5%88%86%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/follow-arrow.png"></p></li></ul><h3 id="如何星标-HitaDAO-项目"><a href="#如何星标-HitaDAO-项目" class="headerlink" title="如何星标 HitaDAO 项目"></a>如何星标 HitaDAO 项目</h3><ul><li><p><strong>步骤 1</strong>：登录至 GitHub 平台并搜索 HitaDAO。</p></li><li><p><strong>步骤 2</strong>：找到并进入指定的 HitaDAO 项目仓库。</p></li><li><p><strong>步骤 3</strong>：在仓库页面，点击 “Star” 按钮以星标项目。</p><p><img src="/2024/08/28/HitaDAO%20%E7%A7%AF%E5%88%86%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/star-arrow.png"></p></li></ul><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>请确保您的以太坊地址准确无误，以便积分能够顺利映射至您的账户。</li><li>积分一旦发放，将无法进行补发或转移，请在操作前仔细核对您的账户信息。</li><li>本积分激励机制的最终解释权归 HitaDAO 所有。</li></ul><h2 id="常见问题解答"><a href="#常见问题解答" class="headerlink" title="常见问题解答"></a>常见问题解答</h2><ul><li><strong>Q: 如何确保我的积分能够及时到账？</strong><ul><li>A: 请确保您的 GitHub 操作符合积分获取条件，并且您的以太坊地址已正确提交至 issue 中。</li></ul></li><li><strong>Q: 如果我在规定时间内未收到积分，该怎么办？</strong><ul><li>A: 请首先检查您的以太坊地址是否正确，并确认您已按照操作指导正确执行了相关操作。如有疑问，请联系 HitaDAO 客服。</li></ul></li><li><strong>Q: 积分是否有使用期限？</strong><ul><li>A: 积分没有使用期限，您可以在任何时候使用积分。</li></ul></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
